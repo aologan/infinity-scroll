@@ -1,1 +1,2 @@
-# A robot that exclusivily tells chuck norris jokes :)
+# A robot that can only tell you chuck norris jokes :)
+
